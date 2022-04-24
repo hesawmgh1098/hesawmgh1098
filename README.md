@@ -1,6 +1,6 @@
    <h1 align="center">About Me</h1>
 <p align="center"><h4 align="center"><samp>Verified Discord Developer & Web Degsiner</samp></h4></p>
-   <h3 align="center">👋 Hi, I’m hesam Ghanbari</h3>
+   <h3 align="center">👋 Hi, I’m hesam </h3>
           <p align="center">   👀 I’m Little develooper ... </p>
  <p align="center">  🌱 I’m currently learning Js and work on Hagh Bot </p>
   <p align="center">  My website : https://hesamtvs.tk </p>
